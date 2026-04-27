@@ -1,43 +1,27 @@
 # 🎮 My First Game Store
 
-Welcome to My First Game Store — a Python project with several small games, created as a playground and later expanded with a simple website to visually present the games.
+Welcome to **My First Game Store** — a Python-based project featuring several interactive games. This repository serves as the core logic and playground for the game engines, later expanded with a visual web interface.
 
 ## 🧠 What’s Inside
-
 This repository includes:
+✔ **Core Game Logic:** Multiple Python implementations of classic games.
+✔ **OOP Principles:** Practice of object-oriented programming and clean code.
+✔ **Automation Playground:** A base for future testing and infrastructure enhancements.
 
-✔ Multiple Python game files  
-✔ A simple demo website that represents the games  
-✔ A playground for future improvements and enhancements  
+## 🌐 Live UI Demo
+To see the visual representation of this store and interact with the interface, visit the live deployment:
+👉 **[Live Game Store UI](https://yarusd.github.io/first-game-store-website/)**
 
 ## 🕹️ Games Included
-
-- Rock-Paper-Scissors  
-- Tic-Tac-Toe  
-- Guess the Word  
-- Battle Game  
+- **Rock-Paper-Scissors**
+- **Tic-Tac-Toe**
+- **Guess the Word**
+- **Battle Game**
 - ... and more!
 
-## 🌐 Website Demo
-
-The project includes a simple front-end website that visually represents the games and acts as a demo "Game Store" interface.
-
-⚠️ You can find the website files in new dedicated repository was later created for the redesigned and properly deployed website version.
-
 ## 🚀 How to Run (Locally)
-
-### ▶ Run Python Games
-
 Make sure you have Python installed.
 
-Clone the repository:
-```
-git clone https://github.com/yarusd/my-first-game-store.git
-```
-
----
-
-## 📌 Project Status
-
-This repository mainly focuses on the Python game implementations.  
-The updated website design and deployment are available in a separate repository. - https://github.com/yarusd/first-game-store-website
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/yarusd/my-first-game-store.git](https://github.com/yarusd/my-first-game-store.git)
